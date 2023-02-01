@@ -61,8 +61,8 @@ this code snippet using in this project
 
 ### Useful resources
 
-- [Example resource 1](https://www.youtube.com/watch?v=B2WL6KkqhLQ&t=1098s) - i prefer to mimic someone before using solely the fronendmentor . I really liked this pattern and will use it going forward.
+- [kevin powel's link in implementing this project ](https://www.youtube.com/watch?v=B2WL6KkqhLQ&t=1098s) - i prefer to mimic someone before using solely the fronendmentor . I really liked this pattern and will use it going forward.
 
 ## Author
 
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/HIKAS)
+- Frontend Mentor - [HIkas](https://www.frontendmentor.io/profile/HIKAS)
